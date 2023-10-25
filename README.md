@@ -1,6 +1,11 @@
 # PL
-Jestem młodym programistą bez ścisłego ukierunkowania językowego ani środowiskowego. Poznałem kilka języków programowania oraz tworzenia stron internetowych. Posiadam łatwość przyswajania nowych języków oraz nowinek technicznych. Jestem Technikiem Informatykiem, studiuję Informatykę na SGGW.
+
+Jestem studentem Informatyki na specjalizacji Inżynieria systemów informacyjnych na [SGGW](https://www.sggw.edu.pl/) w Warszawie. Dodatkowo ukończyłem technikum informatyczne.  
+Na moim profilu możesz znaleźć kilka projektów, które zacząłem robić, bo mnie zaciekawiły. Przypiąłem te, które dokończyłem.  
+Jeśli jesteś tu ze względu na moją rekrutację, możesz zobaczyć moje CV.
+
 # EN
-I am a young programmer without a strict language or environment focus. I have learned several programming and web development languages. I have an ease of learning new languages and technical innovations. I am an Information Technology Technician, studying Computer Science at SGGW.
-# DE
-Ich bin ein junger Programmierer, der nicht auf eine bestimmte Sprache oder Umgebung festgelegt ist. Ich habe mehrere Programmiersprachen und Webentwicklung gelernt. Es fällt mir leicht, neue Sprachen und technische Innovationen zu lernen. Ich bin IT-Techniker und studiere Informatik an der SGGW.
+
+I am a student of Computer Science with a specialization in Information Systems Engineering at [SGGW](https://www.sggw.edu.pl/en/) in Warsaw. I also graduated from an IT technical school.  
+On my profile you can find some projects that I started doing because they interested me. The ones I have completed are pinned.  
+If you are here because of my recruitment, you can see my resume.
