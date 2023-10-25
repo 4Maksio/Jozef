@@ -2,7 +2,7 @@
 
 Jestem studentem Informatyki na specjalizacji Inżynieria systemów informacyjnych na [SGGW](https://www.sggw.edu.pl/) w Warszawie. Dodatkowo ukończyłem technikum informatyczne.  
 Na moim profilu możesz znaleźć kilka projektów, które zacząłem robić, bo mnie zaciekawiły. Przypiąłem te, które dokończyłem.  
-Jeśli jesteś tu ze względu na moją rekrutację, możesz zobaczyć moje CV.
+Jeśli jesteś tu ze względu na moją rekrutację, możesz zobaczyć moje [CV](https://github.com/4Maksio/Jozef/blob/master/JStocki.pdf).
 
 # EN
 
